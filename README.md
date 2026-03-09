@@ -45,7 +45,8 @@ This project solves the problem by building an interactive dashboard that conver
 
 ## 📊 Dashboard Preview
 
-"C:\Users\kunch\OneDrive\Desktop\Amazon Sales Dashboard\Amazon Sales Dashboard.png"
+<img width="1307" height="750" alt="Amazon Sales Dashboard" src="https://github.com/user-attachments/assets/097828c2-b7b6-46c4-8387-fcb40fc6350d" />
+
 
 
 
