@@ -3,6 +3,11 @@ Power BI Dashboard for Amazon Sales & Operations Analysis
 
 ---
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Data Analysis](https://img.shields.io/badge/Project-Data%20Analysis-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Dataset](https://img.shields.io/badge/Data-Amazon%20Sales-orange)
+
 ## 📌 Project Overview
 This project presents an interactive **Power BI dashboard** built to analyze Amazon sales performance. The dashboard helps understand revenue trends, order status distribution, fulfillment performance, and regional sales patterns to support data-driven decision making.
 
