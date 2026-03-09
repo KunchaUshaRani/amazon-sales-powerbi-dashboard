@@ -80,3 +80,10 @@ README.md
 • DAX Calculations  
 • Data Visualization  
 • Dashboard Design
+
+---
+
+# 👨‍💻 Author
+**Kuncha Usha Rani**
+
+Aspiring **Data Analyst | Power BI Developer**
