@@ -45,8 +45,8 @@ This project solves the problem by building an interactive dashboard that conver
 
 ## 📊 Dashboard Preview
 (Add dashboard screenshot in the images folder)
+![Uploading Screenshot 2026-03-09 171447.png…]()
 
-![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
