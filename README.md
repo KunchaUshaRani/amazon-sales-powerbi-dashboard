@@ -62,6 +62,7 @@ Amazon_Sales_Dashboard.pbix
 amazon_sales_raw.csv  
 amazon_sales_cleaned.csv  
 images/
+
 README.md  
 
 ---
