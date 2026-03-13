@@ -68,7 +68,7 @@ README.md
 
 ## 📈 Key Insights
 • Set category generates the highest revenue among product categories  
-• **Maharashtra is the top revenue-generating state**  
+• Maharashtra is the top revenue-generating state  
 • Amazon fulfillment contributes more revenue than merchant fulfillment  
 • A small percentage of orders are cancelled or returned, impacting sales performance  
 
