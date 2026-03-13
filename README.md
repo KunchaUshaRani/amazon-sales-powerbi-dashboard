@@ -61,8 +61,7 @@ This project solves the problem by building an interactive dashboard that conver
 Amazon_Sales_Dashboard.pbix  
 amazon_sales_raw.csv  
 amazon_sales_cleaned.csv  
-images/
-
+images
 README.md  
 
 ---
